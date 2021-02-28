@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://jamify-starter-ghost.netlify.app/",
+    "apiUrl": "https://jamify-starter-ghost.netlify.app",
     "contentApiKey": "7a92157a436d48d59f4476c6c8"
   },
   "production": {
-    "apiUrl": "https://jamify-starter-ghost.netlify.app/",
+    "apiUrl": "https://jamify-starter-ghost.netlify.app",
     "contentApiKey": "7a92157a436d48d59f4476c6c8"
   }
 }
